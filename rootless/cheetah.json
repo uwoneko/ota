@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/uwoneko/ota/releases/download/2025050700/cheetah-2025050700-9929dd8-rootless.zip",
-    "location_csig": "https://github.com/uwoneko/ota/releases/download/2025050700/cheetah-2025050700-9929dd8-rootless.zip.csig"
+    "location_ota": "https://github.com/uwoneko/ota/releases/download/2025052000/cheetah-2025052000-25cb0ae-rootless.zip",
+    "location_csig": "https://github.com/uwoneko/ota/releases/download/2025052000/cheetah-2025052000-25cb0ae-rootless.zip.csig"
   }
 }
